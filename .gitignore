@@ -1,0 +1,5 @@
+*.ann
+*.pdf
+.ipynb_checkpoints
+__MACOSX
+*.swp
